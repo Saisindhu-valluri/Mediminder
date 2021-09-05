@@ -5,6 +5,7 @@
  The project is done using the alarm on a DS3231 with the Adafruit RTClib library.
  Set an alarm on the DS3231 RTC module and monitor its status using the
  alarmFired function. 
+ The code version is 1.0. Date: 05-09-2021
 -----------
   SDA -> Arduino  (SDA pin)
   SCL -> Arduino  (SCL pin)
